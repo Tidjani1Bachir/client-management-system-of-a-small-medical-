@@ -1,6 +1,6 @@
 # client-management-system-of-a-small-medical-
 a client management system of a small medical using typescipt and react and elecron
-#1/ to run this application u have to put all folders and file expect electron folder in a folder called app or any thing else 
+# 1/ to run this application u have to put all folders and file expect electron folder in a folder called app or any thing else 
 2/ put the content of electron folder in the root of the progerct
 3/ go to thge app directory and run npm i 
 4/ in the same directory run npm run build
